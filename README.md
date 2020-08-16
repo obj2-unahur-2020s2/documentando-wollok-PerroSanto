@@ -24,17 +24,17 @@ Y de yapa, dos ejemplos de cómo incluir una imagen en Markdown (vean este archi
 
 ![Desde un archivo local](./images/ejemplo-uml.png)
 
-** Plagas
+** Plagas **
 
 ![Link Plagas](https://plantuml-server.kkeisuke.app/png/bP9DRW8n38NtEKMM8CG5K1Ue1NNLQgxmc74XKcA3ax11t9sWbBy12TWbjlEzPplJcA0f1szCwn6ZRJoMi3jZxMWj2u_M2K_iRmwaKe99mJ6uH7F-8mtKeHiC9_PJn1FuM8645ZeWJu4uIKbcdlzVpFv6vYkNIhGhL3cAqgWKffChHNPRyZEmao9KeWlIbtp8bbHTH-yO-f6uoIx9xe5kTNEcFZDm2swoNoBUOUqzzmsttr35kZnu3Aw3UXbS5_yn7lTsqq-SPjIFrnRDrVcIkpWrPahSbVzs0000.png)
 
 
-** Elementos
+** Elementos **
 
-![Link Elementos]()https://plantuml-server.kkeisuke.app/png/hP2n2i90343t-ueR5V-Wa-rKXnP1Vo3aqd9mJShTnKNwxxQYjOCukOKNU2_ac3B4h4Cm1WEaP6lf8TwDjGVsDmgDzf4As-f0KHQAmft4l46KAYMMtRwmbKWWu8LsIcK612UxCK0FyrOPpijefdUiWOIIuPExG52tSV-oV2-lxbefljG88w1tuCvHd29wuV_SVsglvRCmhkB6inzWrK_cIEpc_pu0.png
+![Link Elementos](https://plantuml-server.kkeisuke.app/png/hP2n2i90343t-ueR5V-Wa-rKXnP1Vo3aqd9mJShTnKNwxxQYjOCukOKNU2_ac3B4h4Cm1WEaP6lf8TwDjGVsDmgDzf4As-f0KHQAmft4l46KAYMMtRwmbKWWu8LsIcK612UxCK0FyrOPpijefdUiWOIIuPExG52tSV-oV2-lxbefljG88w1tuCvHd29wuV_SVsglvRCmhkB6inzWrK_cIEpc_pu0.png)
 
 
-** Barrio
+** Barrio **
 
 ![Link Barrio](https://plantuml-server.kkeisuke.app/png/ZOz12i9034NtEKMM5M_GLPdYJhr3R4Cfp2IIpAp4knl1YdJbzhq7dpzu9QkjP80fapicCblr0OX7pbnOgdgFvpMwOBGOBsIdZ-csvD1Zaur6vpJzKNq7KcDHxy9VMxcn_ReBvRtoKUyqwnicrSma2a-0WMME9oy0.png)
 
