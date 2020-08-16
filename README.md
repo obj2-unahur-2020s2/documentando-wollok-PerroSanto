@@ -24,4 +24,4 @@ Y de yapa, dos ejemplos de cómo incluir una imagen en Markdown (vean este archi
 
 ![Desde un archivo local](./images/ejemplo-uml.png)
 
-(https://plantuml-server.kkeisuke.app/png/bP9DRW8n38NtEKMM8CG5K1Ue1NNLQgxmc74XKcA3ax11t9sWbBy12TWbjlEzPplJcA0f1szCwn6ZRJoMi3jZxMWj2u_M2K_iRmwaKe99mJ6uH7F-8mtKeHiC9_PJn1FuM8645ZeWJu4uIKbcdlzVpFv6vYkNIhGhL3cAqgWKffChHNPRyZEmao9KeWlIbtp8bbHTH-yO-f6uoIx9xe5kTNEcFZDm2swoNoBUOUqzzmsttr35kZnu3Aw3UXbS5_yn7lTsqq-SPjIFrnRDrVcIkpWrPahSbVzs0000.png)
+![Directamente desde un link](https://plantuml-server.kkeisuke.app/png/bP9DRW8n38NtEKMM8CG5K1Ue1NNLQgxmc74XKcA3ax11t9sWbBy12TWbjlEzPplJcA0f1szCwn6ZRJoMi3jZxMWj2u_M2K_iRmwaKe99mJ6uH7F-8mtKeHiC9_PJn1FuM8645ZeWJu4uIKbcdlzVpFv6vYkNIhGhL3cAqgWKffChHNPRyZEmao9KeWlIbtp8bbHTH-yO-f6uoIx9xe5kTNEcFZDm2swoNoBUOUqzzmsttr35kZnu3Aw3UXbS5_yn7lTsqq-SPjIFrnRDrVcIkpWrPahSbVzs0000.png)
