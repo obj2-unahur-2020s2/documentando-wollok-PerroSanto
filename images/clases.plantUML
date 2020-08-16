@@ -1,0 +1,68 @@
+@startuml
+
+class Plaga {
+  +poblacion: Numero
+  transmiteEnfermedad(): Booleano
+  atacar(elemento): unElemento
+}
+
+class PlagaCucaracha{
+  +pesoPromedio: Numero
+  nivelDanio():Number
+  transmiteEnfermedad(): Booleano
+  override atacar(elemento): unElemento
+}
+
+class PlagaMosquito{
+  nivelDanio():Numero
+  override transmiteEnfermedad(): Booleano
+}
+
+class PlagaPulgas{
+  nivelDanio(): Numero
+  override atacar(elemento): unElemento
+}
+
+class PlagaGarrapatas{
+  nivelDanio(): Number
+  override atacar(elemento): unElemento
+}
+
+Plaga <-- PlagaCucaracha
+Plaga <-- PlagaMosquito
+Plaga <-- PlagaPulgas
+PlagaPulgas <-- PlagaGarrapatas
+
+class Barrio{
+  +elementos: Lista
+  agregarElemento(elemento): unElemento
+  sacarElemento(elemento): unElemento
+  elementosBuenos(): Number
+  elementosMalos(): Number
+  esCopado(): Booleano
+}
+
+class Hogar{
+  +nivelMugre: Numero
+  +confort: Numero
+  esBueno(): Booleano
+  fueAtacado(plaga): unaPlaga
+}
+
+class Mascota{
+  +nivelSalud: Numero
+  fueAtacado(plaga): unaPlaga
+  esBueno(): Booleano
+}
+
+class Huerta{
+  +capacidadProduccion: Numero
+  esBueno(): Booleano
+  fueAtacado(plaga): unaPlaga
+}
+
+class INTA{
+  +produccionMinima: Numero
+}
+
+@enduml
